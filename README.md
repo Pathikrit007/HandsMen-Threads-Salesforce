@@ -53,14 +53,15 @@ Updated Stock = Previous Stock − Ordered Quantity
 
 ## 💻 Apex Development
 
-### Order Total Calculation
+The project uses Apex Triggers to automate important order and inventory operations.
 
-The project uses an Apex Trigger to calculate an order's total amount:
+### 1. Order Total Calculation
+
+The `Order_Total_Trigger` automatically calculates the total amount of an order using the product price and ordered quantity.
 
 ```text
 Total Amount = Quantity × Product Price
 ```
-
 Example:
 
 ```text
@@ -71,8 +72,8 @@ Total Amount = $1,200
 
 ### Apex Components
 
-- **OrderTotalTrigger** — invokes order-total calculation logic when records are created or updated.
-- **OrderTriggerHandler** — separates business logic from trigger events for cleaner, maintainable Apex code.
+- **Order_Total_Trigger** — invokes order-total calculation logic when records are created or updated.
+- **Stock_Deduction_Trigger** — Deducts the ordered quantity from the related inventory when an order is confirmed.
 
 ## 🧩 Salesforce Data Model
 
