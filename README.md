@@ -150,6 +150,42 @@ The custom Salesforce application **HandsMen Threads** provides navigation for:
 - Accounts
 - Contacts
 
+## 📸 Project Demonstration
+
+### 🖥️ HandsMen Threads Salesforce Application
+
+![HandsMen Threads Application](ScreenShots/Custom%20App%20for%20Handsmen%20Threads.jpg)
+
+### 👥 Customer Management
+
+![Customer Management](ScreenShots/Customer%20Creation%20in%20HandsMen%20Thread.png)
+
+### 📦 Product Management
+
+![Product Management](ScreenShots/Products%20in%20HandsMen%20Threads.png)
+
+### 🏬 Inventory Management
+
+![Inventory Management](ScreenShots/Inventories%20In%20Handsmen%20Thread.png)
+
+### 🛒 Order Management
+
+![Order Management](ScreenShots/Order%20confirmation.png)
+
+### ⚙️ Automation
+
+![Order Confirmation Flow](ScreenShots/Order%20Confirmation%20Flow.jpg)
+
+![Stock Alert Flow](ScreenShots/Stock%20Alert%20Flow.jpg)
+
+### 📧 Automated Notifications
+
+![Low Stock Alert Email](ScreenShots/Low%20Stock%20Alert%20Email.png)
+
+![Order Confirmation Email](ScreenShots/Order%20Confirmation%20Email.png)
+
+![Loyalty Program Email](ScreenShots/Loyalty%20Program%20Email.jpg)
+
 ## 🔄 Example Business Process
 
 ```text
