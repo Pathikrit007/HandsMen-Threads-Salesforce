@@ -154,37 +154,69 @@ The custom Salesforce application **HandsMen Threads** provides navigation for:
 
 ### 🖥️ HandsMen Threads Salesforce Application
 
-![HandsMen Threads Application](ScreenShots/Custom%20App%20for%20Handsmen%20Threads.jpg)
+<p align="center">
+  <img src="ScreenShots/Custom%20App%20for%20Handsmen%20Threads.jpg" alt="HandsMen Threads Salesforce Application" width="600">
+</p>
 
 ### 👥 Customer Management
 
-![Customer Management](ScreenShots/Customer%20Creation%20in%20HandsMen%20Thread.png)
+<p align="center">
+  <img src="ScreenShots/Customer%20Creation%20in%20HandsMen%20Thread.png" alt="Customer Management" width="600">
+</p>
 
 ### 📦 Product Management
 
-![Product Management](ScreenShots/Products%20in%20HandsMen%20Threads.png)
+<p align="center">
+  <img src="ScreenShots/Products%20in%20HandsMen%20Threads.png" alt="Product Management" width="600">
+</p>
 
 ### 🏬 Inventory Management
 
-![Inventory Management](ScreenShots/Inventories%20In%20Handsmen%20Thread.png)
+<p align="center">
+  <img src="ScreenShots/Inventories%20In%20Handsmen%20Thread.png" alt="Inventory Management" width="600">
+</p>
 
 ### 🛒 Order Management
 
-![Order Management](ScreenShots/Order%20confirmation.png)
+<p align="center">
+  <img src="ScreenShots/Order%20confirmation.png" alt="Order Management" width="600">
+</p>
 
-### ⚙️ Automation
+### ⚙️ Automation & Flows
 
-![Order Confirmation Flow](ScreenShots/Order%20Confirmation%20Flow.jpg)
+#### Order Confirmation Flow
 
-![Stock Alert Flow](ScreenShots/Stock%20Alert%20Flow.jpg)
+<p align="center">
+  <img src="ScreenShots/Order%20Confirmation%20Flow.jpg" alt="Order Confirmation Flow" width="500">
+</p>
+
+#### Stock Alert Flow
+
+<p align="center">
+  <img src="ScreenShots/Stock%20Alert%20Flow.jpg" alt="Stock Alert Flow" width="500">
+</p>
 
 ### 📧 Automated Notifications
 
-![Low Stock Alert Email](ScreenShots/Low%20Stock%20Alert%20Email.png)
+#### Low Stock Alert
 
-![Order Confirmation Email](ScreenShots/Order%20Confirmation%20Email.png)
+<p align="center">
+  <img src="ScreenShots/Low%20Stock%20Alert%20Email.png" alt="Low Stock Alert Email" width="500">
+</p>
 
-![Loyalty Program Email](ScreenShots/Loyalty%20Program%20Email.jpg)
+#### Order Confirmation Email
+
+<p align="center">
+  <img src="ScreenShots/Order%20Confirmation%20Email.png" alt="Order Confirmation Email" width="500">
+</p>
+
+#### Loyalty Program Email
+
+<p align="center">
+  <img src="ScreenShots/Loyalty%20Program%20Email.jpg" alt="Loyalty Program Email" width="500">
+</p>
+
+> 📌 Additional screenshots related to setup, configuration, validation rules, and other implementation details are available in the [`ScreenShots`](ScreenShots/) folder.
 
 ## 🔄 Example Business Process
 
