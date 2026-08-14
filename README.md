@@ -102,18 +102,18 @@ HandsMen Order ─────────► HandsMen Product
 
 ## 🛠️ Technology Stack
 
-| Technology | Usage |
+| Technology / Feature | Purpose |
 |---|---|
-| **Salesforce CRM** | Core platform |
-| **Salesforce Lightning** | User interface |
-| **Custom Objects** | Data modelling |
-| **Salesforce Flow** | Business automation |
-| **Apex** | Server-side business logic |
-| **Apex Triggers** | Record-based automation |
-| **Validation Rules** | Data validation |
-| **Lightning App Builder** | Page/application customization |
-| **Email Alerts** | Automated notifications |
-| **Reports & Dashboards** | Business insights |
+| **Salesforce CRM** | Core CRM platform for managing business data and processes |
+| **Salesforce Lightning** | User interface and application experience |
+| **Custom Objects & Fields** | Data modelling for customers, products, orders, and inventory |
+| **Salesforce Flow** | Declarative automation and business process management |
+| **Apex** | Programmatic business logic |
+| **Apex Triggers** | Automated order and inventory operations |
+| **Validation Rules** | Enforcing business rules and maintaining data integrity |
+| **Email Alerts** | Automated customer and inventory notifications |
+| **Lightning App Builder** | Building and customizing application pages |
+| **Reports & Dashboards** | Monitoring business and operational information |
 
 ## 📊 Reports & Dashboards
 
