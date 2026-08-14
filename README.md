@@ -8,6 +8,10 @@
 
 The project demonstrates practical Salesforce concepts including **Custom Objects, Lightning App Builder, Salesforce Flows, Apex Triggers, Validation Rules, automation, relationships, and email notifications**.
 
+## 📸 Project Preview
+
+![HandsMen Threads Salesforce Application](ScreenShots/Custom%20App%20for%20Handsmen%20Threads.jpg)
+
 ## 🎯 Objectives
 
 - Centralize customer and product information.
